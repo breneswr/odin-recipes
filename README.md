@@ -1,1 +1,1 @@
-This is my first project in The Odin Project. I am working on creating a website using only html. The website will contain basic recipes. In the website I will have an index page with links to a few recipes. Each rescipe will be located on a separate page. # odin-recipes
+This is my first project in The Odin Project. I am working on creating a website using only html. The website will contain basic recipes. In the website I will have an index page with links to a few recipes. Each recipe will be located on a separate page. # odin-recipes
