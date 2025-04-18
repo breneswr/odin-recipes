@@ -1,0 +1,21 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkblue;
+    font-style: italic;
+    background-color: aquamarine;
+    padding: 16px;
+    margin: 10px 40px;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+    list-style-type: none;
+
+}
+
+a{
+    color: darkblue;
+}
